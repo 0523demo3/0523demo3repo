@@ -1,0 +1,8 @@
+/build
+*.idea
+*.iml
+local.properties
+build
+*.properties
+*.lock
+*.bin
